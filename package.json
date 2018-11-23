@@ -1,0 +1,12 @@
+{
+  "name": "typescript-yarn-monorepo",
+  "version": "0.0.1",
+  "description": "Example TypeScript project that uses Yarn workspaces to create a monorepo structure",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Omar Diab <me@omardiab.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:osdiab/typescript-yarn-monorepo.git"
+  }
+}
